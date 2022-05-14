@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba99644-40b2-4766-bb48-cb165855d531" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26uZ3Hm4MN2oBoe5m5VrtnppOei" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_directory_selection": "/home/olufunmi/IdeaProjects/javaExercices/test/timBulchalka",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="timBuchalka" />
+      <recent name="tdd" />
+      <recent name="" />
+      <recent name="chapter6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/tdd" />
+      <recent name="$PROJECT_DIR$/src/timBuchalka" />
+      <recent name="$PROJECT_DIR$/src/tdd" />
+      <recent name="$PROJECT_DIR$/src/chapter5" />
+      <recent name="$PROJECT_DIR$/src/chapter4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="timBuchalka" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter9.Abstraction" />
+      <recent name="timBuchalka" />
+      <recent name="chapter8" />
+      <recent name="chapter6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.KataTest.sumMultiDimensionalArrayTest">
+    <configuration name="ArrayListTest.addWithIndexAndItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter9.Abstraction" />
+      <option name="MAIN_CLASS_NAME" value="chapter9.Abstraction.ArrayListTest" />
+      <option name="METHOD_NAME" value="addWithIndexAndItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.arrayCanReplace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter9.Abstraction" />
+      <option name="MAIN_CLASS_NAME" value="chapter9.Abstraction.ArrayListTest" />
+      <option name="METHOD_NAME" value="arrayCanReplace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.arrayIsElasticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter9.Abstraction" />
+      <option name="MAIN_CLASS_NAME" value="chapter9.Abstraction.ArrayListTest" />
+      <option name="METHOD_NAME" value="arrayIsElasticTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListTest.indexRemovedByStringNotNullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter9.Abstraction" />
+      <option name="MAIN_CLASS_NAME" value="chapter9.Abstraction.ArrayListTest" />
+      <option name="METHOD_NAME" value="indexRemovedByStringNotNullTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KataTest.sumMultiDimensionalArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaExercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tdd" />
+      <option name="MAIN_CLASS_NAME" value="tdd.KataTest" />
+      <option name="METHOD_NAME" value="sumMultiDimensionalArrayTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KataTest.sumMultiDimensionalArrayTest" />
+        <item itemvalue="JUnit.ArrayListTest.arrayCanReplace" />
+        <item itemvalue="JUnit.ArrayListTest.addWithIndexAndItem" />
+        <item itemvalue="JUnit.ArrayListTest.arrayIsElasticTest" />
+        <item itemvalue="JUnit.ArrayListTest.indexRemovedByStringNotNullTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba99644-40b2-4766-bb48-cb165855d531" name="Changes" comment="" />
+      <created>1648275235170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648275235170</updated>
+      <workItem from="1648275236600" duration="4492000" />
+      <workItem from="1648312402671" duration="7482000" />
+      <workItem from="1648403664388" duration="32721000" />
+      <workItem from="1648490301387" duration="4716000" />
+      <workItem from="1648507795198" duration="8521000" />
+      <workItem from="1648556155990" duration="39381000" />
+      <workItem from="1648808106278" duration="14967000" />
+      <workItem from="1648825468943" duration="4156000" />
+      <workItem from="1648832709670" duration="3852000" />
+      <workItem from="1648851517746" duration="51202000" />
+      <workItem from="1649157892515" duration="412000" />
+      <workItem from="1649158891892" duration="34081000" />
+      <workItem from="1649279340737" duration="19223000" />
+      <workItem from="1649363892823" duration="137247000" />
+      <workItem from="1649837023194" duration="2574000" />
+      <workItem from="1649841361302" duration="88652000" />
+      <workItem from="1650382715195" duration="39897000" />
+      <workItem from="1650624895258" duration="942000" />
+      <workItem from="1650912866945" duration="182000" />
+      <workItem from="1650913362746" duration="99000" />
+      <workItem from="1650913565419" duration="34831000" />
+      <workItem from="1651134642274" duration="3621000" />
+      <workItem from="1651327163874" duration="5171000" />
+      <workItem from="1651534316268" duration="8432000" />
+      <workItem from="1652011692811" duration="3755000" />
+      <workItem from="1652251652692" duration="637000" />
+      <workItem from="1652282149986" duration="34024000" />
+      <workItem from="1652508639712" duration="16564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
