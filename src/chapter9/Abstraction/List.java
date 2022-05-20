@@ -8,7 +8,7 @@ public interface List {
     void remove(int index);
     int size();
 
-    boolean isEmpty();
+    boolean isFull();
 
     void replace(int index, String item);
 }

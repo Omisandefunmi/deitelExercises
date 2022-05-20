@@ -5,7 +5,7 @@ public class ArrayList implements List{
     private String [] db = new String[3];
     @Override
     public void add(String item) {
-        if (isEmpty()){
+        if (isFull()){
             makeArrayElastic();
         }
         db [counter] = item;
@@ -18,7 +18,19 @@ public class ArrayList implements List{
     public void add(int index, String item) {
         String [] newdb = new String[db.length +1];
         int realIndex = index - 1;
-        String [] tempArray = new String[db.length - realIndex];
+
+        int loop = 0;
+        int oldArrayIndex = 0;
+        while(loop < newdb.length){
+            if(loop == realIndex){newdb[loop] = item;}
+            else{newdb[loop] = db[oldArrayIndex];
+            oldArrayIndex++;}
+            loop++;
+        }
+        db = newdb;
+        counter++;
+
+        /*String [] tempArray = new String[db.length - realIndex];
         for (int i = 0; i < index; i++) {
             if(i == realIndex){
                 newdb[i] = item;
@@ -38,7 +50,7 @@ public class ArrayList implements List{
             arrayIndex++;
         }
         db = newdb;
-        counter++;
+        counter++;*/
     }
 
     @Override
@@ -78,7 +90,7 @@ public class ArrayList implements List{
         return counter;
     }
 
-    public boolean isEmpty(){
+    public boolean isFull(){
         return counter == db.length;
     }
 

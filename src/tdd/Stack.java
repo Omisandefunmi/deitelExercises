@@ -10,7 +10,7 @@ public class Stack {
         if(numberOfElements == 0)
             return true;
         else
-        return false;
+            return false;
     }
 
 
