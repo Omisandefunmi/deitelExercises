@@ -130,6 +130,19 @@ public class KataTest {
         int arraySum = Kata.sumMultiDimensionalArray(scores);
         assertEquals(16, arraySum);
     }
+    @Test
+    public void sumOfDistinctElementsInTwoArraysCanBeCalculatedTest(){
+        int[] array1 = {3,1,7,9};
+        int[] array2 = {2,4,1,9,3};
+        assertEquals(13,Kata.findSumOfDistinctElements(array1,array2));
+    }
+
+    @Test
+    public void sumOfSameElementsInTwoArraysCanBeCalculatedTest(){
+        int[] array1 = {12,13,6,10};
+        int[] array2 = {13,10,16,15};
+        assertEquals(46,Kata.findSumOfSameElements(array1,array2));
+    }
 
 
 

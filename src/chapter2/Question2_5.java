@@ -18,8 +18,7 @@ public class Question2_5 {
     "chapter7.Product is" followed by the value of the variable result.
      */
     public static void main(String[] args) {
-
-
+        
         Scanner input = new Scanner(System.in);
 
         System.out.println("Kindly enter first number ");
