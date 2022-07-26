@@ -78,7 +78,7 @@ public class InvoiceApp {
 
 
        }
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("E, dd/MM/yyyy, hh:mm:ss a");
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EE, dd-MM-yyyy, hh:mm:ss a");
         String myDate = formatter.format(LocalDateTime.now());
         LocalDateTime localDateTime = LocalDateTime.now();
 
